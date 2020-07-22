@@ -1,0 +1,17 @@
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\bin\Debug\Menu.xml
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.vbprojAssemblyReference.cache
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.Resources.resources
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.vbproj.GenerateResource.cache
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.vbproj.CoreCompileInputs.cache
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.xml
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.Calificaciones.resources
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.Ventas.resources
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.Transporte.resources
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.Diagonal.resources
+C:\Users\staz1\Documents\Visual Studio 2019\Menu\Menu\obj\Debug\Menu.Par_Impar.resources
